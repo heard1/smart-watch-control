@@ -1,3 +1,4 @@
+to watch detailed introduction info: https://www.bilibili.com/video/BV1Vr4y1z7bG/
 阿里云极客创新挑战赛作品
                 大二暑假
 Keras机器学习（input加速度计、陀螺仪）
